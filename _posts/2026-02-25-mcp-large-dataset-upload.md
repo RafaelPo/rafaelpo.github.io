@@ -5,6 +5,7 @@ permalink: /posts/mcp-large-dataset-upload/
 tags:
   - MCP
   - Claude
+  - everyrow
 ---
 
 *Part 1 of a two-part series on handling large datasets with MCP. This post covers getting data in. [Part 2](/posts/mcp-results-widget/) covers getting results out — including an interactive widget for Claude.ai and Claude Desktop.*

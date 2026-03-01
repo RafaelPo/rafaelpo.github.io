@@ -5,6 +5,7 @@ permalink: /posts/mcp-results-widget/
 tags:
   - MCP
   - Claude
+  - everyrow
 ---
 
 *Part 2 of a two-part series on handling large datasets with MCP. [Part 1](/posts/mcp-large-dataset-upload/) covers getting data in. This post covers getting results out.*
