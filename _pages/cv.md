@@ -11,8 +11,13 @@ redirect_from:
 
 ## Professional Experience
 
+### AI Scientist @ [FutureSearch](https://futuresearch.ai/) (London)
+  *March 2026 - Present*
+  - Working on high quality web research at scale.
+  - Built [everyrow](https://everyrow.io/).
+
 ### Senior AI/ML Engineer @ GSK (London)
-  *September 2022 - Present*
+  *September 2022 - February 2026*
   - Our team focuses on evaluation of LLMs and agent-based LLM-powered applications. ([GSK’s JulesOS](https://www.gsk.ai/blogs/julesos-gsk-s-agent-based-operating-system/))  
   - We open-sourced our work on evaluating LLMs where our focus is on contextual knowledge. ([RAMBLA](https://github.com/GSK-AI/rambla))  
   - I previously worked on Out-of-distribution detection for Whole Slide Images.  
